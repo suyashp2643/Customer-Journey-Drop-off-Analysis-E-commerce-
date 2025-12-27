@@ -1,1 +1,2 @@
-# Customer-Journey-Drop-off-Analysis-E-commerce-
+# customer-journey-diagnostics
+# customer-journey-diagnostics
